@@ -87,4 +87,7 @@ a) Safety:
 - The system should be durable. In case of any system crash/failure, user data must not be lost. Backup should be available.
 
 b) Security:
-- There 
+- There are 2 types of users - patient and doctor. So abstractness must be maintained between the users.
+
+c) Software Quality and Interface Requirements:
+- The interface should be made in a user friendly way where he must not be made thinking where to find a particular option or what to do after performing a specific action. New users should also not get irritated after using the system.
